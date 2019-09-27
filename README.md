@@ -12,8 +12,7 @@ export dependencies: -
 Medium article: -
 
 To do:
-
-  Power profile estimation (Critical Power)
-  Form analysis (cadence, L/R)
+  Power profile estimation (Critical Power),
+  Form analysis (cadence, L/R),
   Session feature identification
   
